@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1096480624317",
+    "project_id": "musafer-bus-transport",
+    "storage_bucket": "musafer-bus-transport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096480624317:android:da4fa5f68a8273efcdb1d4",
+        "android_client_info": {
+          "package_name": "com.example.driver_bus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096480624317-ic2i2s35vemu6etu86t5qv97nd8kh4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiPrSnk9vTJxQ_2V7lv7mt7jZ_ib-LVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096480624317-ic2i2s35vemu6etu86t5qv97nd8kh4i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096480624317-6rrd4at4u81tqaetq05dlrmgm51kvlk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.driverBusApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096480624317:android:5b8f2a63658a3b7bcdb1d4",
+        "android_client_info": {
+          "package_name": "com.example.musafer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096480624317-hvdlim3tlcr7a07h4a5jmemrknfr5d2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musafer",
+            "certificate_hash": "ad64679998bb5f678a9a4e4da764e7ee9c447437"
+          }
+        },
+        {
+          "client_id": "1096480624317-ic2i2s35vemu6etu86t5qv97nd8kh4i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiPrSnk9vTJxQ_2V7lv7mt7jZ_ib-LVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096480624317-ic2i2s35vemu6etu86t5qv97nd8kh4i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1096480624317-6rrd4at4u81tqaetq05dlrmgm51kvlk2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.driverBusApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
